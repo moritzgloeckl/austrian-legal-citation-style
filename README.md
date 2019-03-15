@@ -1,4 +1,6 @@
-# Austrian Legal Citation Style
+![](https://img.shields.io/badge/Work-In%20Progress-informational.svg?style=for-the-badge)
+
+# Work In Progress - Austrian Legal Citation Style
 
 This is an update to the Austrian Legal Citation Style (Abkürzungs- und Zitierregeln nach Friedl/Loebenstein). The original has been created by Andreas Geyrecker from LexisNexis, but it was missing some important styling features such as subsequent citations ("Folgezitate") or correct EU law citation styles.
 
